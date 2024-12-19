@@ -43,7 +43,7 @@ Here are some of the projects I’ve been working on:
 ---
 
 ## 📫 Let's Connect!  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Email: [your-email@example.com](mailto:jhonomar109@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn Profile](#)  
 - 🔗 GitHub: [jhonomar26](https://github.com/jhonomar26)  
 
