@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello! I'm Omar Jhon Hualpa Ascuntar  
 
-<!--
-**jhonomar26/jhonomar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Systems Engineering student** with a passion for backend development and software engineering. My focus is on creating efficient and scalable solutions that deliver real value.  
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies  
+- **Programming Languages:** Java, Python, PHP, JavaScript 
+- **Frameworks:** Spring Boot, Django  
+- **Databases:** PostgreSQL, MySQL  
+- **Version Control:** Git  
+- **Networking & Telematics:**
+- **Containerization:** Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- Advanced backend development with Spring Boot and Laravel.  
+- Leveraging Docker for efficient development and deployment.  
+
+### 💼 Professional Goals  
+I am seeking opportunities to contribute to innovative projects in backend development and continue growing as a software engineer.  
+
+### 📫 Contact Me  
+- Email: [jhonomar109@gmail.com]    
+- GitHub: [jhonomar26](https://github.com/jhonomar26)  
+
+Thanks for visiting my profile! 🚀
