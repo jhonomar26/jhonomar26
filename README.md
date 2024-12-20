@@ -9,7 +9,7 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 - 🎨 **Frontend Development**: Proficiency in HTML, CSS, JavaScript, Angular, and Bootstrap.  
 - 📊 **Database Management**: Skilled in PostgreSQL and MySQL.  
 - 🚀 **DevOps Enthusiast**: Knowledgeable in Docker for software deployment.  
-- 📡 **Networking and Telematics**: Familiar with DHCP, DNS, VoIP, and Samba.  
+- 📡 **Networking and Telematics**: Familiar with DHCP, DNS, VoIP, etc.  
 
 ---
 
@@ -19,7 +19,6 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 - [AppCalculadorMC](https://github.com/jhonomar26/AppCalculadorMC) – A calculation tool for BMI with a user-friendly interface.  
 - [AppAutenticacionFirebase](https://github.com/jhonomar26/AppAutenticacionFireb) – Firebase-based authentication system.  
 - [Tienda](https://github.com/jhonomar26/tienda) – E-commerce web application.  
-- [mi_primer_proyecto_flask](https://github.com/jhonomar26/mi_primer_proyecto_flask) – My first Flask project for Python backend development.  
 
 ### 📱 **Mobile Applications**  
 - [AppFlutter1](https://github.com/jhonomar26/AppFlutter1) – A mobile app built with Flutter.  
