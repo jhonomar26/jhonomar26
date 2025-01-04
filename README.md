@@ -53,7 +53,8 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 
 ### Databases  
 - **PostgreSQL**  
-- **MySQL**  
+- **MySQL**
+- **Mongo**
 
 ### Development Tools  
 - **Docker**  
