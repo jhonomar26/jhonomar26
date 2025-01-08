@@ -26,7 +26,7 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 ### 🔒 **API Development**  
 - [apiPeliculas](https://github.com/jhonomar26/apiPeliculas) – RESTful API for managing movie data.  
 - [AplicacionApi](https://github.com/jhonomar26/AplicacionApi) – General-purpose API application.  
-- [Crud-Spring-boot](https://github.com/jhonomar26/Crud-Spring-boot](https://github.com/jhonomar26/proyecto-seguridad-Spring) – A CRUD application built with Spring Boot and Java, demonstrating robust backend development.  
+- [Crud-Spring-boot](https://github.com/jhonomar26/proyecto-seguridad-Spring) – A CRUD application built with Spring Boot and Java, demonstrating robust backend development.  
 
 ### 🔗 **Other Projects**  
 - [armComputador](https://github.com/jhonomar26/armComputador) – A tool for assembling computer components.  
