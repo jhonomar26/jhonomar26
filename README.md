@@ -4,12 +4,12 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 
 ---
 
-## 🌟 Highlights  
-- 🔧 **Backend Development**: Experience in Java, Python, PHP, and frameworks like Spring Boot and Django, NodeJS.  
-- 🎨 **Frontend Development**: Proficiency in HTML, CSS, JavaScript, Angular, and Bootstrap.  
-- 📊 **Database Management**: Skilled in PostgreSQL, Mysql and MongoDB.  
-- 🚀 **DevOps Enthusiast**: Knowledgeable in Docker for software deployment.  
-- 📡 **Networking and Telematics**: Familiar with DHCP, DNS, VoIP, etc.  
+## 🚀 **About Me**  
+- 💻 **Backend Developer** with experience in **Java, Python**, and frameworks like **Spring Boot, Django, and Node.js**.  
+- 🎨 Familiar with **frontend development**, working with **Angular, HTML, CSS, JavaScript, and Bootstrap**.  
+- 🗄️ **Database Management**: PostgreSQL, MySQL, and MongoDB.  
+- 🛠️ **DevOps Enthusiast**, experienced in **Docker** for software deployment.  
+- 🌐 Knowledgeable in **networking and telematics**: DHCP, DNS, VoIP, etc.  
 
 ---
 
@@ -27,7 +27,8 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 
 ### 🔒 **API Development**  
 - [apiPeliculas](https://github.com/jhonomar26/apiPeliculas) – RESTful API for managing movie data.  
-- [AplicacionApi](https://github.com/jhonomar26/AplicacionApi) – General-purpose API application.  
+- [AplicacionApi](https://github.com/jhonomar26/AplicacionApi) – General-purpose API application.
+- [apiNodeJS](https://github.com/jhonomar26/curso-node-restserver) - RESTful API for managing users and categories, with authentication and role-based access control.
 
 ### 🔗 **Other Projects**  
 - [armComputador](https://github.com/jhonomar26/armComputador) – A tool for assembling computer components.  
