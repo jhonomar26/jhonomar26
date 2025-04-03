@@ -7,7 +7,7 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 ## 🌟 Highlights  
 - 🔧 **Backend Development**: Experience in Java, Python, PHP, and frameworks like Spring Boot and Django, NodeJS.  
 - 🎨 **Frontend Development**: Proficiency in HTML, CSS, JavaScript, Angular, and Bootstrap.  
-- 📊 **Database Management**: Skilled in PostgreSQL and MySQL.  
+- 📊 **Database Management**: Skilled in PostgreSQL, Mysql and MongoDB.  
 - 🚀 **DevOps Enthusiast**: Knowledgeable in Docker for software deployment.  
 - 📡 **Networking and Telematics**: Familiar with DHCP, DNS, VoIP, etc.  
 
