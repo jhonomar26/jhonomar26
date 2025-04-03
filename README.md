@@ -23,7 +23,6 @@ Hello! I'm **Omar Jhon Hualpa Ascuntar**, a passionate backend developer and Sys
 ### 📱 **Mobile Applications**  
 - [AppAutenticacionFirebase](https://github.com/jhonomar26/AppAutenticacionFirebase) – Firebase-based authentication system.  
 - [AppCalculadorMC](https://github.com/jhonomar26/AppCalculadorMC) – A calculation tool for BMI with a user-friendly interface.  
-- [AppFlutter1](https://github.com/jhonomar26/AppFlutter1) – A mobile app built with Flutter.  
 
 ### 🔒 **API Development**  
 - [apiPeliculas](https://github.com/jhonomar26/apiPeliculas) – RESTful API for managing movie data.  
